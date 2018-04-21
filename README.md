@@ -1,7 +1,7 @@
 # CHARLOTTESVILLE OPEN DATA CHALLENGE
 ## Best Predictive Model Competition
 
-=======================================
+
 
 Team Name: Love Thy K-Nearest Neighbor
 Team members: Alex P. Miller (alexmill@wharton.upenn.edu)
@@ -15,11 +15,8 @@ Predictions for test period are in folder: Submission/my_predictions/
 Predictions for each variable are in their own file:
 
 - Submission/my_predictions/
-
     - clients.csv
-    
     - sessions.csv
-    
     - usage.csv
 
 
@@ -103,27 +100,30 @@ manually, I did not violate any terms of service to obtain the data.
 
 
 Weather data, obtained from Weather Underground:
-    - Link to raw data:
-        - https://www.wunderground.com/history/airport/KCHO/2017/1/1/CustomHistory.html?dayend=31&monthend=12&yearend=2017&req_city=&req_state=&req_statename=&reqdb.zip=&reqdb.magic=&reqdb.wmo=
-    - Link to Terms of Service:
-        - https://www.wunderground.com/weather/api/d/terms.html
-    - Offline file stored at:
-        - Submission/my_data/weather_data.csv
+
+- Link to raw data:
+    - https://www.wunderground.com/history/airport/KCHO/2017/1/1/CustomHistory.html?dayend=31&monthend=12&yearend=2017&req_city=&req_state=&req_statename=&reqdb.zip=&reqdb.magic=&reqdb.wmo=
+- Link to Terms of Service:
+    - https://www.wunderground.com/weather/api/d/terms.html
+- Offline file stored at:
+    - Submission/my_data/weather_data.csv
         
 UVA Basketball Game Data, obtained from ESPN
-    - Link to Terms of Use:
-        - https://disneytermsofuse.com/
-    - Links to raw data:
-        - 2016-2017 Season: http://www.espn.com/mens-college-basketball/team/schedule/_/id/258/year/2017
-        - 2017-2018 Season: http://www.espn.com/mens-college-basketball/team/schedule/_/id/258/virginia-cavaliers
-    - Offline file stored at:
-        - Submission/my_data/basketball_data.csv
+
+- Link to Terms of Use:
+    - https://disneytermsofuse.com/
+- Links to raw data:
+    - 2016-2017 Season: http://www.espn.com/mens-college-basketball/team/schedule/_/id/258/year/2017
+    - 2017-2018 Season: http://www.espn.com/mens-college-basketball/team/schedule/_/id/258/virginia-cavaliers
+- Offline file stored at:
+    - Submission/my_data/basketball_data.csv
 
 Downtown Charlottesville Local Event Data:
-    - Sample link to January 2017 Calendar:
-        - http://www.downtowncharlottesville.net/events/2017/01/
-    - Offline file stored at:
-        - Submission/my_data/events.csv
+
+- Sample link to January 2017 Calendar:
+    - http://www.downtowncharlottesville.net/events/2017/01/
+- Offline file stored at:
+    - Submission/my_data/events.csv
 
 
 
