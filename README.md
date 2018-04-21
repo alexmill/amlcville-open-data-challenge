@@ -1,8 +1,11 @@
 # CHARLOTTESVILLE OPEN DATA CHALLENGE
 ## Best Predictive Model Competition
+
 =======================================
+
 Team Name: Love Thy K-Nearest Neighbor
 Team members: Alex P. Miller (alexmill@wharton.upenn.edu)
+
 =======================================
 
 
@@ -10,10 +13,14 @@ Final submission location:
 =======================================
 Predictions for test period are in folder: Submission/my_predictions/
 Predictions for each variable are in their own file:
-    - Submission/my_predictions/
-        - clients.csv
-        - sessions.csv
-        - usage.csv
+
+- Submission/my_predictions/
+
+    - clients.csv
+    
+    - sessions.csv
+    
+    - usage.csv
 
 
 
@@ -63,25 +70,25 @@ notebook included in this submission directory.
 The notebook has clear heading titles about what each block is doing.
 It approximately follows the following structure:
 
-    - import statements
-    - Data Cleaning
-        - Formatting dependent variables
-        - Formatting predictors
-    - Brief mathematical description of models
-    - Num Clients Model
-        - Model definition
-        - Data formatting
-        - Cross-validation
-        - Final model training
-    - Num Sessions Model
-        - Model definition
-        - Data formatting
-        - Cross-validation
-        - Final model training
-    - Num Sessions Model
-        - Model definition
-        - Data formatting
-        - Final model training
+- import statements
+- Data Cleaning
+    - Formatting dependent variables
+    - Formatting predictors
+- Brief mathematical description of models
+- Num Clients Model
+    - Model definition
+    - Data formatting
+    - Cross-validation
+    - Final model training
+- Num Sessions Model
+    - Model definition
+    - Data formatting
+    - Cross-validation
+    - Final model training
+- Num Sessions Model
+    - Model definition
+    - Data formatting
+    - Final model training
     
 
 
