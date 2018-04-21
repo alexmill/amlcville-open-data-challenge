@@ -6,7 +6,6 @@
 Team Name: Love Thy K-Nearest Neighbor
 Team members: Alex P. Miller (alexmill@wharton.upenn.edu)
 
-=======================================
 
 
 Final submission location:
